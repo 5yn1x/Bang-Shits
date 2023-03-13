@@ -1,4 +1,4 @@
 # Bang-Shits
-All about malwares &amp; Ransomwares &amp; Worms! 
+All about malwares &ampp; Ransomwares &amp; Worms! 
 
-Be careful while using, can easily f*** your PC,Laptops!
+This is only for research purpose and be careful while testing!!
